@@ -2,7 +2,6 @@ package com.flashcard;
 
 import java.util.List;
 import java.util.ArrayList;
-import java.util.Collections;
 
 public class RecentMistakesFirstSorter implements CardOrganizer {
     private List<FlashCard> mistakenCards = new ArrayList<>();
