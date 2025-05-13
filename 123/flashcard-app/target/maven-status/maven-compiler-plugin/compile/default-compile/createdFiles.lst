@@ -1,5 +1,5 @@
-com/flashcard/FlashCard.class
-com/flashcard/FlashCardApp.class
-com/flashcard/RecentMistakesFirstSorter.class
-com/flashcard/CardOrganizer.class
-com/flashcard/App.class
+com\flashcard\FlashCardApp.class
+com\flashcard\CardOrganizer.class
+com\flashcard\RecentMistakesFirstSorter.class
+com\flashcard\App.class
+com\flashcard\FlashCard.class
