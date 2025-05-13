@@ -1,1 +1,1 @@
-# 123
+mvn exec:java  commandaar ajilna
